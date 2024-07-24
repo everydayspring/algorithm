@@ -1,5 +1,8 @@
 # algorithm
 
+### Q. [두 수의 나눗셈](https://school.programmers.co.kr/learn/courses/30/lessons/120806)
+#### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q120806/Solution.java)
+
 ### Q. [두 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120802)
 #### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q120802/Solution.java)
 
