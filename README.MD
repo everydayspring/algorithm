@@ -1,5 +1,11 @@
 # algorithm
 
+### Q. [기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798)
+#### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q136798/Solution.java)
+
+### Q. [각도기](https://school.programmers.co.kr/learn/courses/30/lessons/120829)
+#### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q120829/Solution.java)
+
 ### Q. [두 수의 나눗셈](https://school.programmers.co.kr/learn/courses/30/lessons/120806)
 #### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q120806/Solution.java)
 
