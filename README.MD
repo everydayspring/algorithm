@@ -7,6 +7,12 @@
 #### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q136798/Solution.java)
 
 
+### Q. [문자열을 정수로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/12925)
+#### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q12925/Solution.java)
+
+### Q. [자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932)
+#### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q12932/Solution.java)
+
 ### Q. [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954)
 #### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q12954/Solution.java)
 
