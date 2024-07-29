@@ -7,6 +7,12 @@
 #### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q136798/Solution.java)
 
 
+### Q. [정수 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12933)
+#### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q12933/Solution.java)
+
+### Q. [정수 제곱근 판별](https://school.programmers.co.kr/learn/courses/30/lessons/12934)
+#### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q12934/Solution.java)
+
 ### Q. [문자열을 정수로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/12925)
 #### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q12925/Solution.java)
 
