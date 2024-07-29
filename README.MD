@@ -7,6 +7,18 @@
 #### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q136798/Solution.java)
 
 
+### Q. [서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919)
+#### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q12919/Solution.java)
+
+### Q. [클라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943)
+#### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q12943/Solution.java)
+
+### Q. [두 정수 사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12912)
+#### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q12912/Solution.java)
+
+### Q. [하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947)
+#### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q12947/Solution.java)
+
 ### Q. [정수 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12933)
 #### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q12933/Solution.java)
 
