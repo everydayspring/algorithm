@@ -7,6 +7,30 @@
 #### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q136798/Solution.java)
 
 
+### Q. [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612)
+#### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q82612/Solution.java)
+
+### Q. [문자열 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12917)
+#### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q12917/Solution.java)
+
+### Q. [약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884)
+#### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q77884/Solution.java)
+
+### Q. [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128)
+#### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q70128/Solution.java)
+
+### Q. [수박수박수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922)
+#### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q12922/Solution.java)
+
+### Q. [가운데 글자 가져오기](https://school.programmers.co.kr/learn/courses/30/lessons/12903)
+#### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q12903/Solution.java)
+
+### Q. [제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12935)
+#### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q12935/Solution.java)
+
+### Q. [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051)
+#### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q86051/Solution.java)
+
 ### Q. [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)
 #### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q12948/Solution.java)
 
