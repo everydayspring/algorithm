@@ -7,6 +7,15 @@
 #### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q136798/Solution.java)
 
 
+### Q. [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)
+#### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q12948/Solution.java)
+
+### Q. [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501)
+#### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q76501/Solution.java)
+
+### Q. [나누어 떨어지는 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12910)
+#### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q12910/Solution.java)
+
 ### Q. [서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919)
 #### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q12919/Solution.java)
 
