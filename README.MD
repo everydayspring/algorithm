@@ -7,6 +7,18 @@
 #### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q136798/Solution.java)
 
 
+### Q. [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940)
+#### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q12940/Solution.java)
+
+### Q. [직사각형 별찍기](https://school.programmers.co.kr/learn/courses/30/lessons/12969)
+#### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q12969/Solution.java)
+
+### Q. [행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950)
+#### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q12950/Solution.java)
+
+### Q. [문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918)
+#### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q12918/Solution.java)
+
 ### Q. [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612)
 #### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q82612/Solution.java)
 
