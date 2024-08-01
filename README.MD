@@ -7,6 +7,15 @@
 #### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q136798/Solution.java)
 
 
+### Q. [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)
+#### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q131705/Solution.java)
+
+### Q. [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930)
+#### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q12930/Solution.java)
+
+### Q. [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935)
+#### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q68395/Solution.java)
+
 ### Q. [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940)
 #### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q12940/Solution.java)
 
