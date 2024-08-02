@@ -7,6 +7,12 @@
 #### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q136798/Solution.java)
 
 
+### Q. [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)
+#### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q86491/Solution.java)
+
+### Q. [크기가 작은 부분 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355)
+#### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q147355/Solution.java)
+
 ### Q. [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)
 #### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q131705/Solution.java)
 
