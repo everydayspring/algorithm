@@ -7,6 +7,12 @@
 #### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q136798/Solution.java)
 
 
+### Q. [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)
+#### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q81301/Solution.java)
+
+### Q. [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)
+#### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q12926/Solution.java)
+
 ### Q. [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)
 #### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q86491/Solution.java)
 

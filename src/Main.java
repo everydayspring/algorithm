@@ -53,5 +53,9 @@ public class Main {
         System.out.println(str6 = str6.toUpperCase());      // TRY HELLO WORLD
         System.out.println(str6 = str6.toLowerCase());      // try hello world
 
+        // Character to Integer
+        char char1 = 'A';
+        int num9 = (int)char1;      // 65
+
     }
 }
