@@ -7,6 +7,15 @@
 #### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q136798/Solution.java)
 
 
+### Q. [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644)
+#### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q68644/Solution.java)
+
+### Q. [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)
+#### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q42748/Solution.java)
+
+### Q. [문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915)
+#### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q12915/Solution.java)
+
 ### Q. [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)
 #### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q81301/Solution.java)
 
