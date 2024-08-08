@@ -7,7 +7,13 @@
 ##### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q136798/Solution.java)
 
 
-#### Q. [카드뭉치(https://school.programmers.co.kr/learn/courses/30/lessons/159994)
+#### Q. [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)
+##### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q42840/Solution.java)
+
+#### Q. [과일장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808)
+##### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q135808/Solution.java)
+
+#### Q. [카드뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994)
 ##### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q159994/Solution.java)
 
 #### Q. [2016년](https://school.programmers.co.kr/learn/courses/30/lessons/12901)
