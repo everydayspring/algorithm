@@ -7,6 +7,9 @@
 ##### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q136798/Solution.java)
 
 
+#### Q. [소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977)
+##### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q12977/Solution.java)
+
 #### Q. [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)
 ##### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q42840/Solution.java)
 
