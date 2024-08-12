@@ -6,6 +6,8 @@
 #### Q. [기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798)
 ##### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q136798/Solution.java)
 
+#### Q. [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989)
+##### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q161989/Solution.java)
 
 #### Q. [소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977)
 ##### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q12977/Solution.java)
