@@ -1,5 +1,14 @@
 # algorithm
 
+#### Q. [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)
+##### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q42862/Solution.java)
+
+#### Q. [숫자짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128)
+##### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q131128/Solution.java)
+
+#### Q. [옹알이 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499)
+##### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q133499/Solution.java)
+
 #### Q. [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484)
 ##### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q77484/Solution.java)
 
