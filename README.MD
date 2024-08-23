@@ -1,5 +1,17 @@
 # algorithm
 
+#### Q. [성격 유형 검사 하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)
+##### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q118666/Solution.java)
+
+#### Q. [햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502)
+##### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q133502/Solution.java)
+
+#### Q. [대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586)
+##### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q160586/Solution.java)
+
+#### Q. [문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108)
+##### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q140108/Solution.java)
+
 #### Q. [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)
 ##### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q42862/Solution.java)
 
