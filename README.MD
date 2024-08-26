@@ -1,5 +1,8 @@
 # algorithm
 
+#### Q. [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)
+##### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q161990/Solution.java)
+
 #### Q. [성격 유형 검사 하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)
 ##### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q118666/Solution.java)
 
