@@ -1,5 +1,8 @@
 # algorithm
 
+#### Q. [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)
+##### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q150370/Solution.java)
+
 #### Q. [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)
 ##### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q161990/Solution.java)
 
