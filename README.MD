@@ -1,5 +1,14 @@
 # algorithm
 
+#### Q. [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)
+##### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q12982/Solution.java)
+
+#### Q. [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)
+##### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q12906/Solution.java)
+
+#### Q. [문자열 내 p와 y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916)
+##### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q12916/Solution.java)
+
 #### Q. [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928)
 ##### A. [Solution](https://github.com/everydayspring/algorithm/blob/master/src/q172928/Solution.java)
 
