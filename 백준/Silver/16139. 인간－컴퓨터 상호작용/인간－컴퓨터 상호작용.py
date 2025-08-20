@@ -1,24 +1,17 @@
 import sys
-input = sys.stdin.read
+from bisect import bisect_left, bisect_right
+input = sys.stdin.readline
 
-data = input().split()
-s = data[0]
-q = int(data[1])
-queries = data[2:]
+S = input().strip()
+q = int(input())
+pos = [[] for _ in range(26)]
+for i, ch in enumerate(S):
+    pos[ord(ch) - 97].append(i)
 
-prefix = [[0] * (len(s) + 1) for _ in range(26)]
-
-for i in range(len(s)):
-    for j in range(26):
-        prefix[j][i + 1] = prefix[j][i]
-    prefix[ord(s[i]) - ord('a')][i + 1] += 1
-
-output = []
-for i in range(q):
-    alpha = queries[i * 3]
-    l = int(queries[i * 3 + 1])
-    r = int(queries[i * 3 + 2])
-    idx = ord(alpha) - ord('a')
-    output.append(str(prefix[idx][r + 1] - prefix[idx][l]))
-
-print('\n'.join(output))
+out = []
+for _ in range(q):
+    a, l, r = input().split()
+    l = int(l); r = int(r)
+    arr = pos[ord(a) - 97]
+    out.append(str(bisect_right(arr, r) - bisect_left(arr, l)))
+print('\n'.join(out))
